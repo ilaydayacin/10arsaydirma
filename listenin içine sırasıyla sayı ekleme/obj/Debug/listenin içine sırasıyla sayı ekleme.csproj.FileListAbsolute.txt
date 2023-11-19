@@ -1,0 +1,10 @@
+C:\Users\Win10\Desktop\ilkay py\c\listenin içine sırasıyla sayı ekleme\listenin içine sırasıyla sayı ekleme\obj\Debug\listenin içine sırasıyla sayı ekleme.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\ilkay py\c\listenin içine sırasıyla sayı ekleme\listenin içine sırasıyla sayı ekleme\obj\Debug\listenin_içine_sırasıyla_sayı_ekleme.Form1.resources
+C:\Users\Win10\Desktop\ilkay py\c\listenin içine sırasıyla sayı ekleme\listenin içine sırasıyla sayı ekleme\obj\Debug\listenin_içine_sırasıyla_sayı_ekleme.Properties.Resources.resources
+C:\Users\Win10\Desktop\ilkay py\c\listenin içine sırasıyla sayı ekleme\listenin içine sırasıyla sayı ekleme\obj\Debug\listenin içine sırasıyla sayı ekleme.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\ilkay py\c\listenin içine sırasıyla sayı ekleme\listenin içine sırasıyla sayı ekleme\obj\Debug\listenin içine sırasıyla sayı ekleme.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\ilkay py\c\listenin içine sırasıyla sayı ekleme\listenin içine sırasıyla sayı ekleme\bin\Debug\listenin içine sırasıyla sayı ekleme.exe.config
+C:\Users\Win10\Desktop\ilkay py\c\listenin içine sırasıyla sayı ekleme\listenin içine sırasıyla sayı ekleme\bin\Debug\listenin içine sırasıyla sayı ekleme.exe
+C:\Users\Win10\Desktop\ilkay py\c\listenin içine sırasıyla sayı ekleme\listenin içine sırasıyla sayı ekleme\bin\Debug\listenin içine sırasıyla sayı ekleme.pdb
+C:\Users\Win10\Desktop\ilkay py\c\listenin içine sırasıyla sayı ekleme\listenin içine sırasıyla sayı ekleme\obj\Debug\listenin içine sırasıyla sayı ekleme.exe
+C:\Users\Win10\Desktop\ilkay py\c\listenin içine sırasıyla sayı ekleme\listenin içine sırasıyla sayı ekleme\obj\Debug\listenin içine sırasıyla sayı ekleme.pdb
